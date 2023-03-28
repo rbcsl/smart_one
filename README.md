@@ -32,6 +32,8 @@
 #include <Adafruit_GFX.h>     
 #include <Adafruit_SSD1306.h>      
 
+#define OLED_RESET  -1
+
 RF24 radio(9, 10);                                //Создаём объект radiо, указывая номера выводов радиомодуля (CE, SS).
 Adafruit_SSD1306 display(OLED_RESET);             //Создаём объект display для работы с OLED
 
