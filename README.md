@@ -1,4 +1,3 @@
-# Универсальный пульт дистанционного управления на Arduino Nano
 
 ### Установите Arduino IDE
 Страница IDE на официальном сайте: <a href="https://www.arduino.cc/en/software" target="_blank">откройте ссылку в новой вкладке</a>
