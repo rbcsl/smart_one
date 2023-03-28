@@ -251,7 +251,7 @@ if (update == true){
 </details>
 
 <details>
-  <summary>Сетч колёсной платформы</summary>
+  <summary>Скетч колёсной платформы</summary>
 
 ```C++
 #include "RF24.h"
